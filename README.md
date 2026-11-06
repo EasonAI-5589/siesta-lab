@@ -1,12 +1,10 @@
 # Siesta Lab
 
-Static website for Siesta Lab.
+The Siesta Lab website is now at https://siestalab.github.io/.
 
-Website: https://easonai-5589.github.io/siesta-lab/
+This repository preserves links to the previous project website. The home page and member pages redirect to their matching pages on the current website.
 
-## Publish
-
-Enable GitHub Pages with **Deploy from a branch**, select `main`, and select `/(root)`.
-The `.nojekyll` file allows the HTML, CSS, JavaScript, and SVG files to be served directly.
-
-The home page is `index.html`; member pages are in `people/`. Internal links are relative so they work under the `/siesta-lab/` project path.
+- Eason Guo: https://siestalab.github.io/people/eason-guo.html
+- Harvin Wang: https://siestalab.github.io/people/harvin-wang.html
+- Vincent: https://siestalab.github.io/people/vincent.html
+- Bob Siesta: https://siestalab.github.io/people/bob.html
